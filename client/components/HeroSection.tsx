@@ -7,7 +7,7 @@ export default function HeroSection() {
       <div 
         className="absolute inset-0 bg-cover bg-no-repeat"
         style={{ 
-          backgroundImage: "url('/background_at_top_of_page.jpg')",
+          backgroundImage: `url('${import.meta.env.BASE_URL}background_at_top_of_page.jpg')`,
           backgroundPosition: 'right center',
         }}
       />

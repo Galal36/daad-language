@@ -169,13 +169,13 @@ export default function About() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="/courses"
+                href="https://galal36.github.io/daad-language/#/courses"
                 className="inline-block px-8 py-4 bg-gold text-white font-semibold rounded-lg hover:bg-gold-dark transition-all"
               >
                 Explore Courses
               </a>
               <a
-                href="/contact"
+                href="https://galal36.github.io/daad-language/#/contact"
                 className="inline-block px-8 py-4 border-2 border-dark-green text-dark-green font-semibold rounded-lg hover:bg-dark-green hover:text-white transition-all"
               >
                 Get in Touch

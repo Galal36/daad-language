@@ -38,7 +38,7 @@ export default function About() {
 
             <div>
               <h2 className="text-4xl font-bold text-dark-green mb-2">Jalal Ali</h2>
-              <p className="text-xl text-gold font-semibold mb-6">Certified Online Arabic Instructor</p>
+              <p className="text-xl text-gold font-semibold mb-6">Native Online Arabic Instructor</p>
               <p className="text-lg font-semibold text-gray-700 mb-4">HSD Arabic Certification: 78.5/80</p>
 
               <div className="space-y-4 text-gray-700">

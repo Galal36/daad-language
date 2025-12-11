@@ -13,7 +13,7 @@ export default function Footer() {
               <span className="text-gold">Daad</span> Language
             </h3>
             <p className="text-gray-300 text-sm">
-              Learn Arabic & Quran with a certified online instructor
+              Learn Arabic & Quran with a native online instructor
             </p>
           </div>
 

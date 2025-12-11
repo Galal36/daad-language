@@ -11,7 +11,7 @@ export default function InstructorSection() {
               <div className="absolute inset-0 bg-gradient-to-br from-gold to-dark-green rounded-2xl blur-3xl opacity-20"></div>
               <img
                 src={instructorImg}
-                alt="Jalal Ali - Certified Arabic Instructor"
+                alt="Jalal Ali - Native Arabic Instructor"
                 className="relative w-full max-w-md rounded-2xl shadow-2xl object-cover"
               />
             </div>
@@ -33,7 +33,7 @@ export default function InstructorSection() {
                 Jalal Ali
               </h3>
               <p className="text-lg">
-                <strong>Certified Online Arabic Instructor</strong> (HSD Arabic 78.5/80)
+                <strong>Native Online Arabic Instructor</strong> (HSD Arabic 78.5/80)
               </p>
 
               <p>

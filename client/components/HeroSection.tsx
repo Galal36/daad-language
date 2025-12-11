@@ -23,7 +23,7 @@ export default function HeroSection() {
           {/* Left Column: Text Content */}
           <div className="flex flex-col gap-6 backdrop-blur-sm bg-white/10 p-8 md:p-12 rounded-2xl shadow-2xl lg:text-left text-center">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight text-white drop-shadow-lg">
-              Learn Arabic & Quran with a Certified Online Instructor
+              Learn Arabic & Quran with a Native Online Instructor
             </h1>
 
             <p className="text-lg md:text-xl text-white leading-relaxed drop-shadow-md font-medium">
@@ -54,7 +54,7 @@ export default function HeroSection() {
             <div className="flex flex-wrap gap-4 pt-6 lg:justify-start justify-center">
               <div className="flex items-center gap-2 bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full">
                 <div className="w-3 h-3 rounded-full" style={{ backgroundColor: '#C9A227' }}></div>
-                <span className="text-white font-medium drop-shadow">Certified Instructor</span>
+                <span className="text-white font-medium drop-shadow">Native Instructor</span>
               </div>
               <div className="flex items-center gap-2 bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full">
                 <div className="w-3 h-3 rounded-full" style={{ backgroundColor: '#C9A227' }}></div>

@@ -125,7 +125,7 @@ export default function About() {
                 </div>
                 <h3 className="font-bold text-dark-green mb-2">Certified & Experienced</h3>
                 <p className="text-gray-600 text-sm">
-                  HSD Arabic certified with proven teaching expertise.
+                  HSD Arabic certified with proven online teaching expertise(general).
                 </p>
               </div>
 
